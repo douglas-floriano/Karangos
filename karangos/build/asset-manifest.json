@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Karangos/karangos/build/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Karangos/karangos/build/static/js/main.479034a9.chunk.js",
+    "main.js.map": "/Karangos/karangos/build/static/js/main.479034a9.chunk.js.map",
+    "runtime-main.js": "/Karangos/karangos/build/static/js/runtime-main.db31049f.js",
+    "runtime-main.js.map": "/Karangos/karangos/build/static/js/runtime-main.db31049f.js.map",
+    "static/js/2.715c2160.chunk.js": "/Karangos/karangos/build/static/js/2.715c2160.chunk.js",
+    "static/js/2.715c2160.chunk.js.map": "/Karangos/karangos/build/static/js/2.715c2160.chunk.js.map",
+    "static/js/3.ae70009e.chunk.js": "/Karangos/karangos/build/static/js/3.ae70009e.chunk.js",
+    "static/js/3.ae70009e.chunk.js.map": "/Karangos/karangos/build/static/js/3.ae70009e.chunk.js.map",
+    "index.html": "/Karangos/karangos/build/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Karangos/karangos/build/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.715c2160.chunk.js.LICENSE.txt": "/Karangos/karangos/build/static/js/2.715c2160.chunk.js.LICENSE.txt",
+    "static/media/karangos.637f9a06.png": "/Karangos/karangos/build/static/media/karangos.637f9a06.png",
+    "static/media/vintage-cars.afc4f710.png": "/Karangos/karangos/build/static/media/vintage-cars.afc4f710.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db31049f.js",
+    "static/js/2.715c2160.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.479034a9.chunk.js"
+  ]
+}
