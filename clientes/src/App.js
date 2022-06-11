@@ -2,7 +2,7 @@
 import TopBar from './ui/TopBar'
 import FooterBar from './ui/FooterBar'
 import { createMuiTheme, ThemeProvider, makeStyles } from '@material-ui/core/styles';
-import yellow from '@material-ui/core/colors/yellow';
+import red from '@material-ui/core/colors/red';
 import pink from '@material-ui/core/colors/pink';
 import { Box } from '@material-ui/core'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
@@ -14,7 +14,7 @@ const theme = createMuiTheme({
     palette: {
         type: 'dark',
         primary: {
-            main: yellow[500],
+            main: red[500],
         },
         secondary: {
             main: pink[500],
